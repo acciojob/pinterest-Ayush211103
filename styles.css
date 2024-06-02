@@ -6,7 +6,9 @@
 	width:100%;
 	height:400px;
 }
-
+img{
+	object-fit:cover;
+}
 .eg{
 	text-align:center;
 }
